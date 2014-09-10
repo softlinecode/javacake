@@ -1,2 +1,2 @@
-javacake
+com.softline.javacake
 ========

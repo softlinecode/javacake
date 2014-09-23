@@ -32,8 +32,9 @@ public class TimeLineTest {
 
 		calendar.add(Calendar.DATE, 1);
 		String nextDay = toString(calendar, pattern, utc);
-		assertEquals(nextDay, "1582.10.05");
-		//assertEquals(nextDay, "1582.15.05");
+		//		assertEquals(nextDay, "1582.10.05");
+		System.out.print(nextDay);
+		assertEquals(nextDay, "1582.10.15");
 	}
 
 	@Test

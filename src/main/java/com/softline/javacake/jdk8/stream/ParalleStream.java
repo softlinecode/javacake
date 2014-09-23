@@ -37,9 +37,9 @@ public class ParalleStream {
 		cakes.add("chiffon");
 		cakes.add("mousse");
 
-		//		for (int i = 0; i < 10000000; i++) {
-		//			cakes.add("test" + i);
-		//		}
+		for (int i = 0; i < 10000000; i++) {
+			cakes.add("test" + i);
+		}
 		paralleStream(cakes);
 	}
 }

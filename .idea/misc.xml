@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1384413712017" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJS" value="$USER_HOME$/dev/formatter/configuration%2Feclipse%2Fformatter%2FCoupang%20Formatter%20for%20JavaScript.xml" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/dev/formatter/Coupang Formatter for Java.xml" />
+    <option name="selectedJavaProfile" value="Coupang Standard For JAVA(v1.1)" />
+    <option name="selectedJavaScriptProfile" value="Coupang Standard For JavaScript(v1.0)" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="IdProvider" IDEtalkID="49089E0146DB2BC248590BCC46437368" />
+  <component name="ProjectKey">
+    <option name="state" value="project://63537948-39a4-48a0-9c97-34259a0fa913" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

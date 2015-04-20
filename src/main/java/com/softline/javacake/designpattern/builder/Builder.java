@@ -3,7 +3,6 @@ package com.softline.javacake.designpattern.builder;
 /**
  * @author softlinecode@gmail.com
  */
-public class builderMain {
-
-
+public interface Builder<T> {
+	public T build();
 }

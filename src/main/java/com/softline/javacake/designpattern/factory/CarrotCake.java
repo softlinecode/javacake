@@ -6,6 +6,6 @@ package com.softline.javacake.designpattern.factory;
 public class CarrotCake implements Cake {
 	@Override
 	public void cook() {
-		System.out.println("CarrotCake cook");
+		System.out.println("Cake cook");
 	}
 }

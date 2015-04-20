@@ -23,7 +23,6 @@ public class StringFormat {
 		System.out.println(String.format("%tA", new Date()));//월요일
 		System.out.println(String.format("%tB", new Date()));//8월
 		System.out.println(String.format("%tC", new Date()));//20
-
 	}
 
 }

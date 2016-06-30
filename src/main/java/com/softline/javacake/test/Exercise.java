@@ -1,8 +1,7 @@
 package com.softline.javacake.test;
 
 /**
- * @author
- * @since 14. 10. 31. 오후 5:14
+ * @author softlinecode@gmail.com
  */
 public class Exercise {
 	public static void main(String[] args) {
@@ -34,17 +33,3 @@ public class Exercise {
 		poly_C.printPolynomial();
 	}
 }
-
-/*
- *
- *
- *
- */
-
-
-/*
- *
- *
- *
- */
-

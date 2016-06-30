@@ -1,8 +1,7 @@
 package com.softline.javacake.test;
 
 /**
- * @author Venice
- * @since 14. 10. 31. 오후 5:15
+ * @author softlinecode@gmail.com
  */
 public class NodeList {
 	private Node head;
